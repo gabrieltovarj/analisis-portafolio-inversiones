@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Si utiliza este material, por favor cítelo como se indica a continuación."
+title: "Análisis de retorno de un portafolio de acciones con Python (yfinance)"
+abstract: >-
+  Herramienta reproducible en Python para descargar precios históricos de
+  Yahoo Finance y calcular el retorno y el riesgo de un portafolio de acciones
+  con pesos definidos por el usuario. Desarrollada como tarea del curso Mercado
+  de Capitales del MBA de la Universidad Viña del Mar (UVM), planteada como
+  demostración del uso de Python para el análisis de inversiones, con las
+  acciones chilenas CMPC, Copec y Cencosud durante 2022 como caso de ejemplo.
+type: software
+authors:
+  - given-names: Gabriel
+    family-names: Tovar
+    # Ajuste nombre/apellidos y añada co-autores si corresponde.
+keywords:
+  - finanzas
+  - portafolio
+  - retorno
+  - yfinance
+  - Python
+  - teoría de portafolio
+  - MBA
+  - UVM
+license: MIT
+date-released: 2026-09-01

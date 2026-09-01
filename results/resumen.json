@@ -1,0 +1,46 @@
+{
+  "periodo": {
+    "inicio": "2021-12-01",
+    "fin": "2022-12-01"
+  },
+  "pesos": {
+    "CMPC.SN": 0.3,
+    "COPEC.SN": 0.3,
+    "CENCOSUD.SN": 0.4
+  },
+  "retorno_anual_por_activo_pct": {
+    "CMPC.SN": -0.83,
+    "COPEC.SN": -3.9,
+    "CENCOSUD.SN": 7.08
+  },
+  "retorno_portafolio_buy_and_hold_pct": 1.41,
+  "retorno_portafolio_rebalanceo_mensual_pct": 2.73,
+  "volatilidad_mensual_pct": 5.42,
+  "volatilidad_anualizada_pct": 18.79,
+  "correlaciones": {
+    "CMPC.SN": {
+      "CMPC.SN": 1.0,
+      "COPEC.SN": 0.753,
+      "CENCOSUD.SN": 0.045
+    },
+    "COPEC.SN": {
+      "CMPC.SN": 0.753,
+      "COPEC.SN": 1.0,
+      "CENCOSUD.SN": 0.237
+    },
+    "CENCOSUD.SN": {
+      "CMPC.SN": 0.045,
+      "COPEC.SN": 0.237,
+      "CENCOSUD.SN": 1.0
+    }
+  },
+  "tickers": [
+    "CMPC.SN",
+    "COPEC.SN",
+    "CENCOSUD.SN"
+  ],
+  "columna_precio": "Adj Close",
+  "intervalo": "1mo",
+  "n_observaciones_precio": 13,
+  "n_retornos": 12
+}
