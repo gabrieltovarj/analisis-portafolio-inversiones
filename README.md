@@ -62,8 +62,7 @@ de año calendario (base = cierre de diciembre 2021):
 | **Portafolio** | 100 % | | **+1,41 pp** |
 
 El portafolio terminó **en positivo** gracias a **Cencosud (+7,1 %)**, que
-compensó las caídas de CMPC y Copec (ambas del sector celulosa/forestal y muy
-correlacionadas entre sí, ρ ≈ 0,75).
+compensó las caídas de CMPC y Copec (ambas del sector primario y correlacionadas entre sí, ρ ≈ 0,75).
 
 > Los valores exactos pueden variar en centésimas al reejecutar, porque Yahoo
 > Finance recalcula los factores de ajuste por dividendos con el tiempo. La
